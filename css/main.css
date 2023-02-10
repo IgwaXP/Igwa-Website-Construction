@@ -1366,7 +1366,7 @@ input::-moz-focus-inner {
 .home-content__counter .days {
   font-family: "metropolis-extralight", sans-serif;
   font-size: 17.5rem;
-  letter-spacing: -.5rem;
+  letter-spacing: 0.5rem;
   padding-right: 6rem;
   margin-top: -0.9rem;
 }
@@ -1929,7 +1929,7 @@ html.no-csstransitions .home-content__main {
 
 }
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:500px) {
   .s-home {
     min-height: 630px;
   }
